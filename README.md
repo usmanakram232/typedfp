@@ -22,3 +22,14 @@ for details.
 
 To provide attribution, link back to `https://github.com/mbbx6spp/typedfp` or the current home for the
 project at the time.
+
+## Outline
+
+See [Outline](OUTLINE.md) of curriculum for a teaser of the material but changes to ordering and
+structure are likely as we develop the materials and get feedback from learners of all levels.
+
+## Sources
+
+The material in this repository is from learned experiences as well as existing courses, books,
+and other learning materials on the the same or related topics. We will keep a curated list of
+sources at [Sources](SOURCES.md) as we add material.

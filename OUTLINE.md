@@ -1,9 +1,10 @@
-# Typed Functional Programming
+# Typed Pure Functional Programming
 
 Proposed outline for internal course with exercises:
 
 * Equational Reasoning Intro
-* Lambda Calculus Primitives
+  * Lambda Calculus Primitives
+  * Referential Transparency as purity definition (terminology)
 * Algebraic Data Types (Optional and List definitions)
   * Holes & Zippers (differentiation on the ADT)
   * ADTs as initial algebras
@@ -17,10 +18,12 @@ Proposed outline for internal course with exercises:
   * To polynomial representations
 * Representations (Generic Programming)
   * Simple exercises in traversing structures of common type forms
-* Universal & Existential Types
 * Logic & Curry-Howard Isomorphism
+  * Universal & Existential Types
 * Parametricity "theorems for free" (basics)
-* Case Study: Sets (much more fleshed out example than given on Friday that relates back to all the prior ideas and concepts in some fashion)
+
+* *Case Study:* Sets (much more fleshed out example than given on Friday that relates back to all the prior ideas and concepts in some fashion)
+
 * Foldable, Traverable
 * Functors (covariant, show why Set is not a law abiding covariant)
 * Contravariant Functors, Bifunctors, Profunctors
@@ -29,7 +32,7 @@ Proposed outline for internal course with exercises:
 * Coyoneda (return to Sets for map :)) & Lawless Popular Misconceptions
 * Free Structures (examples: a free monoid, a free applicative, a free monad)
 * Extensible Effects
-* GADTS
+* GADTS and State Machines
 * Case Study: Crypto FFI (Browser and Node bindings)
 * Fixed Points!
 * Recursion Schemes
